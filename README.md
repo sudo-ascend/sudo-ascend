@@ -3,20 +3,19 @@
 </div>
 
 
-
 <div align="center">
-<h1 align="center">Привет! Я <span style="color: #FFD700">sudo-ascend</span>.</h1>
+<h1 align="center">Привет! Я sudo-ascend.</h1>
   
-  <a href="https://discord.com/users/ВАШ_ID_DISCORD" target="_blank">
+  <a href="https://discord.com/users/1078240779543269417" target="_blank">
     <img src="https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=black" height="28" alt="discord logo"  />
   </a>
-  <a href="https://t.me/ВАШ_НИК_В_TELEGRAM" target="_blank">
+  <a href="https://t.me/sudo-ascend" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-FFC107?style=for-the-badge&logo=telegram&logoColor=black" height="28" alt="telegram logo"  />
   </a>
   <a href="https://github.com/sudo-ascend" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-FFEB3B?style=for-the-badge&logo=github&logoColor=black" height="28" alt="github logo"  />
   </a>
-  <a href="https://steamcommunity.com/id/ВАШ_ID_STEAM/" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199508550786/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-FF9800?style=for-the-badge&logo=steam&logoColor=white" height="28" alt="steam logo"  />
   </a>
 </div>
